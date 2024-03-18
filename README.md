@@ -1,16 +1,46 @@
-### Hi there 👋
 
-<!--
-**OmkarJadhav98/OmkarJadhav98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi 👋 My name is Omkar Jadhav
+=========================
+Software Developer, Web Developer
+---------------------------------------
+Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software developer with a keen interest in Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. Throughout my career, I've had the privilege of working on various projects that have honed my skills and allowed me to explore new technologies.In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
 
-Here are some ideas to get you started:
+### Here is what I am working on 👋
+- 🌍 I'm based in Pune, India
+- 🔭 I’m currently working on : Java, Spring, Spring Boot, HTML, CSS and many more things.
+- 👯 I’m looking to collaborate on : Java projects
+- 📫 My Portfolio : https://github.com/OmkarJadhav98
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>		
+<code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
+<code><img height="50" src="https://img.icons8.com/color/344/visual-studio.png"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
+
+## Social Media Handles
+[![Github](https://img.shields.io/github/followers/OmkarJadhav98?label=Follow&style=social)](https://github.com/OmkarJadhav98)
+[![Mail](https://img.shields.io/badge/-objadhav28@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:objadhav28@gmail.com)
+
+## Profile Visits
+![Visitor Count](https://profile-counter.glitch.me/{OmkarJadhav98}/count.svg)
+
+### Badges
+| <a href="https://github.com/OmkarJadhav98/OmkarJadhav98"><img align="center" src="https://github-readme-stats.vercel.app/api?username=OmkarJadhav98&show_icons=true&theme=buefy&hide_border=true&count_private=true" alt="Omkar's github stats" /></a> | <a href="https://github.com/OmkarJadhav98/OmkarJadhav98"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarJadhav98&layout=compact&theme=buefy&hide_border=true&langs_count=8" /></a> |
+| ------------- | ------------- |
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/OmkarJadhav98"><img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarJadhav98&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/OmkarJadhav98"><img src="https://activity-graph.herokuapp.com/graph?username=OmkarJadhav98&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
