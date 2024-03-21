@@ -1,8 +1,6 @@
-
 Hi 👋 My name is Omkar Jadhav
-=========================
-Software Developer, Web Developer
----------------------------------------
+=============================
+
 Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software developer with a keen interest in Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. Throughout my career, I've had the privilege of working on various projects that have honed my skills and allowed me to explore new technologies.In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
 
 ### Here is what I am working on 👋
