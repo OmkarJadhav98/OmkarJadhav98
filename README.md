@@ -16,6 +16,7 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software develop
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>		
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
@@ -24,7 +25,6 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software develop
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-windows.svg"></code>
 <code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/microsoft-office.svg"></code>
-<code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
 
 ## Social Media Handles
 [![Github](https://img.shields.io/github/followers/OmkarJadhav98?label=Follow&style=social)](https://github.com/OmkarJadhav98)
