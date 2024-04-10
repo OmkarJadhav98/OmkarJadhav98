@@ -1,7 +1,7 @@
 Hi 👋 My name is Omkar Jadhav
 =============================
 
-Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
+Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with C,C++, Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in Pune, India
@@ -10,17 +10,21 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with Java, JD
 - 📫 My Portfolio : https://github.com/OmkarJadhav98
 
 ## Stack I work with
+<code><img height="50" src="https://www.vectorlogo.zone/logos/open-std_c/open-std_c-icon~alt.svg"></code>
+<code><img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/c-plusplus.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>		
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/maven.svg"></code>
