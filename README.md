@@ -1,11 +1,11 @@
 Hi 👋 My name is Omkar Jadhav
 =============================
 
-Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software developer with a keen interest in Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
+Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub..
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in Pune, India
-- 🔭 I’m currently working on : Java, Spring, Spring Boot, HTML, CSS and many more things.
+- 🔭 I’m currently learning on : Java, Spring, Spring Boot, HTML, CSS and many more things.
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 My Portfolio : https://github.com/OmkarJadhav98
 
@@ -17,6 +17,7 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, a passionate software develop
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/bitbucket/bitbucket-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></code>
