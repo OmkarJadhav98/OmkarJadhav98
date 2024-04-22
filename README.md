@@ -5,7 +5,7 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with C,C++, J
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in Pune, India
-- 🔭 I’m currently learning on : Java, Spring, Spring Boot, HTML, CSS and many more things.
+- 🔭 I’m currently learning on : Java, Spring, Spring Boot, HTML, CSS and many more things
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 My Portfolio : https://github.com/OmkarJadhav98
 
