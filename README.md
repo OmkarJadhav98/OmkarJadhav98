@@ -4,7 +4,7 @@ Hi 👋 My name is Omkar Jadhav
 Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with C, C++, Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub.
 
 ### Here is what I am working on 👋
-- 🌍 I'm based in Pune, India.
+- 🌍 I'm based in Pune, India
 - 🔭 I’m currently learning on : Java, Spring, Spring Boot, HTML, CSS and many more things.
 - 👯 I’m looking to collaborate on : Java projects
 - 📫 My Portfolio : https://github.com/OmkarJadhav98
