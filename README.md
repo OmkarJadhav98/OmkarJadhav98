@@ -18,7 +18,6 @@ Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with C, C++, 
 <code><img height="50" src="https://img.icons8.com/color/344/intellij-idea.png"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="30" src="https://github.com/get-icon/geticon/blob/master/icons/eclipse-logo.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/apache/apache-official.svg"></code>
