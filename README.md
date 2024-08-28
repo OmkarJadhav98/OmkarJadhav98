@@ -1,4 +1,9 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://omkarjadhav.io)
+<div align="center">
+  <a href="https://omkarjadhav.io">
+    <img src="https://miro.medium.com/v2/resize:fit:828/format:webp/1*yw0TnheAGN-LPneDaTlaxw.gif" alt="MasterHead"/>
+  </a>
+</div>
+
 
 Hi 👋 My name is Omkar Jadhav
 ===============================
