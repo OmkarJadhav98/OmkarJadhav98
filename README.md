@@ -4,11 +4,12 @@
   </a>
 </div>
 
-
 Hi 👋 My name is Omkar Jadhav
 ===============================
 
 Welcome to my GitHub repository! I'm Omkar Jadhav, Have a hands-on with C, C++, Java, JDBC, Spring, Spring boot, Hibernate, HTML & CSS. Interested in Solving problems. In this repository, you'll find a collection of projects that demonstrate my expertise, creativity, and problem-solving abilities. I believe in the power of collaboration and open-source contributions, which is why I've chosen to share my work here on GitHub.
+
+<img src="https://user-images.githubusercontent.com/92860846/192116238-f0a2f976-265f-460f-ad0a-83ef612ca989.gif" align="right" width="300" alt="Coding">
 
 ### Here is what I am working on 👋
 - 🌍 I'm based in Pune, India.
